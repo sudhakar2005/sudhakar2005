@@ -88,20 +88,3 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### ✨ "Creating intelligent solutions with creativity and code."
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
